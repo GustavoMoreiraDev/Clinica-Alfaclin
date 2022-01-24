@@ -102,9 +102,6 @@ h1, h2, h3, h4, h5, h6 {
   background: #ececec;
 
 }
-#header.header-scrolled, #header.header-inner-pages {
-  
-}
 #header .logo {
   font-size: 32px;
   margin: 0;
@@ -251,7 +248,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
 #hero h1 span {
-  color:#529aec;
+  color:#079cf3;
 }
 #hero h2 {
   color: rgba(253, 253, 253, 0.9);
@@ -722,7 +719,7 @@ color: #ffffff;
 background: #01e201; 
 }
 .img-wrapper {
-  width: 150px;
+  width: 130px;
 }
 .img-logo {
   height: 100%;
