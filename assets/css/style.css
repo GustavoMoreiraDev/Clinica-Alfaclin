@@ -243,7 +243,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   font-size: 56px;
   font-weight: 700;
-  line-height: 64px;
+  line-height: 64px; 
   color: #fff;
   font-family: "Poppins", sans-serif;
 }
