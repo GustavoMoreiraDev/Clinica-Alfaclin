@@ -225,6 +225,12 @@ h1, h2, h3, h4, h5, h6 {
   background-size: cover;
   position: relative;
 }
+@media screen and (max-width:550px) {
+  #hero {
+    background: url("../img/alfaclin_mobile.png") top center;
+    background-size: cover;
+  }
+}
 #hero:before {
   content: "";
   background: rgba(0, 0, 0, 0.158);
@@ -721,10 +727,14 @@ background: #01e201;
 .img-wrapper {
   width: 130px;
 }
-.img-logo {
+.img-index {
   height: 100%;
   width: 100%;
   object-fit: contain;
+}
+.img-logo {
+  width: 130px;
+  object-fit: cover;
 }
 .tam-link {
   font-size: 14px;
