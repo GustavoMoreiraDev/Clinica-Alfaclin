@@ -2,9 +2,8 @@
 let lgpdHtml = `
   <div class="lgpd">
   <div class="lgpd-left">
-    Respeitando a LGPD, esse cookie é utilizado para registrar 
-    o seu consentimento (Ou a falta dele) sobre o uso de nossos cookies. 
-    Sem dados pessoais. <a href="LGPD.html" target="blank">Políticas de Privacidade</a>
+    Utilizamos Cookies para oferecer a melhor </br> Experiência possível em nosso Site.
+    <a href="LGPD.html" target="blank">Saiba mais</a>
   </div>
   <div class="lgpd-right">
     <button>Aceitar</button>
