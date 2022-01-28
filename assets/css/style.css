@@ -786,3 +786,7 @@ background: #01e201;
     font-size: 10px;
   }
 }
+.slider-convenio {
+  height:130px;
+  object-fit: unset;
+}
